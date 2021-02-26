@@ -4,7 +4,7 @@
 # Data-Analytics
 Data analytics lectures for computer science students.
 
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
 ## `Part 1` 
@@ -16,7 +16,7 @@ Data analytics lectures for computer science students.
 ### `Lecture 05` - 
 ### `Lecture 06` - 
 
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
 ## `Part 2` 
