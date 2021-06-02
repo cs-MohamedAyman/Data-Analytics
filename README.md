@@ -20,7 +20,7 @@ Data analytics lectures for computer science students.
   - 
 </details>
 
-### Lecture 02 - [Diagnostic Analytics](https://github.com/cs-MohamedAyman/Data-Analysis/tree/master/Lectures/README.md)
+### Lecture 02 - [Diagnostic Analytics](https://github.com/cs-MohamedAyman/Data-Analytics/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -31,7 +31,7 @@ Data analytics lectures for computer science students.
   - 
 </details>
 
-### Lecture 03 - [Predictive Analytics](https://github.com/cs-MohamedAyman/Data-Analysis/tree/master/Lectures/README.md)
+### Lecture 03 - [Predictive Analytics](https://github.com/cs-MohamedAyman/Data-Analytics/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -42,7 +42,7 @@ Data analytics lectures for computer science students.
   - 
 </details>
 
-### Lecture 04 - [Prescriptive Analytics](https://github.com/cs-MohamedAyman/Data-Analysis/tree/master/Lectures/README.md)
+### Lecture 04 - [Prescriptive Analytics](https://github.com/cs-MohamedAyman/Data-Analytics/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
